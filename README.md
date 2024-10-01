@@ -4,4 +4,4 @@ IT has all basic and correct calculations and a simple deployment task
 
 You can download and run using "python main.py" 
 or 
-Get the docker image using "docker pull hasibalam/python-calculator"
+Get the docker image using "docker pull hasibalam/python-calculator:lastest"
